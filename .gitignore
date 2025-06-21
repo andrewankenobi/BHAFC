@@ -1,0 +1,12 @@
+# Ignore the .cursor directory
+.cursor/
+
+# Ignore the data directory
+data/
+
+# Ignore specific CSS files
+styles.css
+summary_styles.css
+
+# Ignore summary.html
+summary.html 
